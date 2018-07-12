@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Napitalai Information and Communication Technology Consultants | YOUR ICT NEED IS OUR CONCERN"
-theme = "navigator-hugo"
+#theme = "navigator-hugo"
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
