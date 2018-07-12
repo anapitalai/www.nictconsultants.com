@@ -20,18 +20,18 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
   
  
-  - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Blog" # Used in the UI, ie.: "New Post"
-    folder: "content/blog" # The path to the folder where the documents are stored
+  - name: "service" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Service" # Used in the UI, ie.: "New Post"
+    folder: "content/service" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "text"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
 
-   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Blog" # Used in the UI, ie.: "New Post"
-    folder: "content/blog" # The path to the folder where the documents are stored
+  - name: "portfolio" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Portfolio" # Used in the UI, ie.: "New Post"
+    folder: "content/portfolio" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
