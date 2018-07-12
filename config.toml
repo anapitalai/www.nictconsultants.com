@@ -71,7 +71,7 @@ title = "Napitalai Information and Communication Technology Consultants | YOUR I
     # Hero Area Section
     [params.hero]
         enable  = true
-        heading = "We love to make brands grow"
+        heading = "Your ICT need is our major concern."
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
         button  = true
         btnText = "Know More"
@@ -109,11 +109,11 @@ title = "Napitalai Information and Communication Technology Consultants | YOUR I
         address = "14/05, Stockhome <br> Victori Palace , United States"
         phone   = "(03) 9283 2617"
         fax     = "+61 3827 3590"
-        facebook= "https://www.facebook.com/"
+        facebook= "https://www.facebook.com/alois.napitalai"
         twitter = "https://twitter.com/"
         linkedin= "https://www.linkedin.com/"
         dribbble= "https://dribbble.com/"
         instagram= "https://www.instagram.com/"
-        mapLatitude = "51.507351"
-        mapLongitude= "-0.127758"
+        mapLatitude = "167"
+        mapLongitude= "-6.7"
         mapMarker   = "images/marker.png"
