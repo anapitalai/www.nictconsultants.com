@@ -71,8 +71,8 @@ title = "Napitalai Information and Communication Technology Consultants | YOUR I
     # Hero Area Section
     [params.hero]
         enable  = true
-        heading = "Your ICT need is our major concern."
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+        heading = "NAPITALAI ICT CONSULTANTS"
+        description = "Your Information Comunication Tech needs are our major concern here at NICTC."
         button  = true
         btnText = "Know More"
         btnURL  = "https://themefisher.com/"
