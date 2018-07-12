@@ -1,18 +1,18 @@
 backend:
   name: git-gateway
   branch : master
-  repo: anapitalai/statichugoblog # Path to Github repository
+  repo: anapitalai/www.nictconsultants.com # Path to Github repository
   publish_mode: editorial_workflow
 
 
-media_folder: "static/img"
-public_folder: "/img"
+media_folder: "static/images"
+public_folder: "/images"
 
 
 collections:
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "content/post" # The path to the folder where the documents are stored
+  - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Blog" # Used in the UI, ie.: "New Post"
+    folder: "content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
