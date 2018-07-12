@@ -2,7 +2,7 @@
 title: Web Application Development
 author: Alois Napitalai
 date: '2018-07-12T13:34:19+10:00'
-image: /images/sly2.jpg
+image: /images/pricing-bg.jpg
 ---
 
 
