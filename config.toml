@@ -72,7 +72,7 @@ title = "Napitalai Information and Communication Technology Consultants | YOUR I
     [params.hero]
         enable  = true
         heading = "NAPITALAI ICT CONSULTANTS"
-        description = "Your Information Comunication Tech needs are our major concern here at NICTC."
+        description = "Your Information Comunication Technology needs is our major concern here at NICTC."
         button  = true
         btnText = "Know More"
         btnURL  = "https://themefisher.com/"

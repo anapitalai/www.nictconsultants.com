@@ -1,25 +1,25 @@
 enable    : true
 topTite   : LITTLE MORE BRIEF
-title     : About Us.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+title     : About NICTC.
+subtitle  : Napitalai ICT Consultants was registered in 2012 by Mr Alois Napitalai,a graduate Electronics Engineer from the PNG University of Technology and at that time was a Senior Technical Officer with Information and Communications Department. The main motive behind  the initiation of the business was the need for repairs of electronic items that were infiltrated into our country. There was the need for repair technicians and most importantly, the knowledge and qualifications they needed to strategically diagnose and repair electronic items hence he decided to run trainings and repair services. Since then, many services have been included like local area network and wireless designs and implementation,computer hardware and software installation and repairs and lately,the business has included web designs, programming and web hosting services. Web hosting is possible through computer virtualization where  the business has obtained a virtual private server from online and configured as a web server to host websites/applications. The websites or web application are  designed in such a way where user experience is our main focus. The sites are mobile friendly meaning adaptive and responsive. The sites are responsive to different screen resolutions and adapt when accessed from different screen sizes making mobile experience great.
 tabItem   :
   - id        : philosophy
     title     : Our Philosophy
     heading   : We Create Designs and technology
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      Promote Information and Communication Technology Services as an essential part of day to day living with minimal cost and fully support the use of Open Source Softwares as a way forward.
     image     : images/company/company-image.jpg
 
   - id        : mission
     title     : Mission
     heading   : Our Mission
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      Provide reliable,satisfactory and affordable ICT services to our  customers.
     image     : images/company/company-image-2.jpg
 
   - id        : vision
     title     : Vision
     heading   : Our Vision
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      Promote Information and Communication Technology Services as an essential part of day to day living with minimal cost and fully support the use of Open Source Softwares as a way forward.
     image     : images/company/company-image-3.jpg
