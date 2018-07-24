@@ -1775,6 +1775,13 @@ a:focus, a:hover {
   height: 100vh;
 }
 
+.page-thankyou {
+  height: 100vh;
+}
+.page-thankyou h1 {
+  font-size: 200px;
+}
+
 .page-404 h1 {
   font-size: 200px;
 }
