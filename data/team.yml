@@ -4,9 +4,9 @@ title   : Our Team.
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 
 member  :
-  - image         : images/team/member-1.jpg
-    name          : Shawshank Redemption
-    designation   : Head Of Marketing
+  - image         : images/team/an.jpg
+    name          : Mr Alois Napitalai
+    designation   : CEO
     description   : >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     facebookURL   : https://www.facebook.com/
@@ -15,8 +15,8 @@ member  :
     dribbbleURL   : https://dribbble.com/
 
   - image         : images/team/member-2.jpg
-    name          : Leo Departure
-    designation   : Web Developer
+    name          : Mr Eddie Ragat
+    designation   : Communication and Networking Officer 
     description   : >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     facebookURL   : https://www.facebook.com/
@@ -25,8 +25,8 @@ member  :
     dribbbleURL   : https://dribbble.com/
 
   - image         : images/team/member-3.jpg
-    name          : Remoni Rio
-    designation   : Senior Developer
+    name          : Miss Miriam Liuna
+    designation   : Financial Controller
     description   : >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     facebookURL   : https://www.facebook.com/
@@ -35,8 +35,8 @@ member  :
     dribbbleURL   : https://dribbble.com/
 
   - image         : images/team/member-4.jpg
-    name          : Lawandeski Roma
-    designation   : Designer
+    name          : Miss Weslianne Joseph
+    designation   : Marketing and Advertising
     description   : >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     facebookURL   : https://www.facebook.com/
