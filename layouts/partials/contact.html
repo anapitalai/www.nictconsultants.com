@@ -23,7 +23,7 @@
             </div>
             {{ "<!-- Contact Form -->" | safeHTML }}
             <div class="contact-form col-12 col-md-6 ">
-                <form netlify name="contact-form" action="thank-you">
+             <!--   <form netlify name="contact-form" action="thank-you">
                     <div class="form-group">
                         <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
                     </div>
@@ -51,7 +51,16 @@
                     <div id="cf-submit">
                         <input id="contact-submit" class="btn btn-transparent" name="Submit">
                     </div>
-                </form>
+                </form>-->
+               <form name="contact" action="thank-you" netlify>
+                   <input type="text" placeholder="Your Name" name="name">
+                   <input type="email" placeholder="Your Email" name="email">
+                   <textarea name="message" placeholder="When would you like to book a reservation?"></textarea>
+                   <button>Send</button>
+</form>
+
+
+
             </div>
         </div>
         <div class="row">
