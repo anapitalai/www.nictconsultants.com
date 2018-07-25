@@ -171,27 +171,30 @@
 
 		if (error == false) {
 		
-			$('#contact-submit').attr({
-				'disabled': 'false',
-				'value': 'Sending...'
-			});
-
-			//$.post("sendmail.php", $("#contact").serialize(), function (result) {
+			$('#contact-submit')
+			//.attr({
+			//	'disabled': 'false',
+			//	'value': 'Sending...'
+		//})
+		;
+         
+			/**$.post("sendmail.php", $("#contact").serialize(), function (result) {
 				
-				if (disabled == 'false') {
+				if (result == 'sent') {
 				
-					//$('#cf-submit').remove();
+					$('#cf-submit').remove();
 				
-					//$('#mail-success').fadeIn(500);
-				} 
-				//else {
+					$('#mail-success').fadeIn(500);
+				} else {
 					
-				//	$('#mail-fail').fadeIn(500);
+					$('#mail-fail').fadeIn(500);
 					
 					$('#contact-submit').removeAttr('disabled').attr('value', 'Send The Message');
-			//	}
-			//});
-		}
+				}
+			});**/
+
+		} //if error == false
+	
 
 	});//end of fx
 
