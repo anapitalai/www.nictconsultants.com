@@ -176,8 +176,7 @@
 				'value': 'Sending...'
 			});
 
-		/** 
-			$.post("sendmail.php", $("#contact").serialize(), function (result) {
+			/**$.post("sendmail.php", $("#contact").serialize(), function (result) {
 				
 				if (result == 'sent') {
 				
@@ -190,10 +189,11 @@
 					
 					$('#contact-submit').removeAttr('disabled').attr('value', 'Send The Message');
 				}
-			});
+			});**/
 		}
-	});
-**/
+
+	});//end of fx
+
 
 /* ========================================================================= */
 /*	On scroll fade/bounce effect
