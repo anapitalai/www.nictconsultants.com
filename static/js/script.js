@@ -172,8 +172,8 @@
 		if (error == false) {
 		
 			$('#contact-submit').attr({
-				'disabled': 'false',
-				'value': 'Sending...'
+				'disabled': 'true',
+				'value': 'Sent...'
 			});
 
 			/**$.post("sendmail.php", $("#contact").serialize(), function (result) {
