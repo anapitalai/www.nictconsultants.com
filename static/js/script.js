@@ -133,7 +133,7 @@
 	/* ========================================================================= */
 
 
-  	/**$('#contact-submit').click(function (e) {
+  	$('#contact-submit').click(function (e) {
 
 		e.preventDefault();
 
@@ -176,7 +176,7 @@
 				'value': 'Sending...'
 			});
 
-		
+		/** 
 			$.post("sendmail.php", $("#contact").serialize(), function (result) {
 				
 				if (result == 'sent') {
