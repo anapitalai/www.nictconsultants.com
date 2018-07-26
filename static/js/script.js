@@ -133,12 +133,17 @@
 	/* ========================================================================= */
 
 
-  	/**$('#contact').click(function (e) {
+  $("#contact").submit(function(e) {
+  e.preventDefault();
 
-		e.preventDefault();
+ // var $form = $(this);
+  //$.post($form.attr("action"), $form.serialize()).then(function() {
+  //  alert("Thank you!");
+ // });
+});
 
-		
-		var error = false;
+
+	/**	var error = false;
 		var name = $('#name').val();
 		var email = $('#email').val();
 		var subject = $('#subject').val();
