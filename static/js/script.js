@@ -133,7 +133,7 @@
 	/* ========================================================================= */
 
 
-  	$('#contact-submit').click(function (e) {
+  	/**$('#contact').click(function (e) {
 
 		e.preventDefault();
 
@@ -171,10 +171,10 @@
 
 		if (error == false) {
 		
-			$('#contact-submit').attr({
-				'disabled': 'false',
-				'value': 'Sending...'
-			});
+			//$('#contact-submit').attr({
+			//	'disabled': 'false',
+			//	'value': 'Sending...'
+		//	});
             
 			var $form = $(this);
 			$.post($form.attr("action"), $form.serialize()).then(function(result) {

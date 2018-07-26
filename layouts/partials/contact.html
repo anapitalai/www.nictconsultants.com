@@ -23,7 +23,7 @@
             </div>
             {{ "<!-- Contact Form -->" | safeHTML }}
             <div class="contact-form col-12 col-md-6 ">
-                <form netlify name="contact" action="thank-you">
+          <!--      <form netlify name="contact" action="thank-you">
                     <div class="form-group">
                         <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
                     </div>
@@ -49,19 +49,19 @@
                     </div>
                     <div data-netlify-recaptcha></div>
                    <div id="cf-submit">
-                        <input id="contact-submit" class="btn btn-transparent" value="Submit">
-                         
+                        <input id="contact-submit" type="submit" class="btn btn-transparent" name="Submit">
+                    
                    </div>
                    
-                </form>
-                <!--
+                </form>-->
+                
               <form name="contact" action="thank-you" netlify>
                    <input  class="form-control" id="name" type="text" placeholder="Your Name" name="name">
                    <input class="form-control" id="email" type="email" placeholder="Your Email" name="email">
                    <input class="form-control" id="subject" type="text" placeholder="Your Subject" name="subject">
                    <textarea class="form-control" id="message" name="message" placeholder="Would you like to leave me a message?"></textarea>
                    <button id="contact-submit">Send</button>
-              </form>-->
+              </form>
 
 
 
