@@ -116,7 +116,7 @@
 	    },
 	    complete: function() {
 	      $this.text(this.countNum);
-	      //alert('finished');
+	     
 	    }
 
 	  });  
@@ -175,8 +175,9 @@
 				'disabled': 'false',
 				'value': 'Sending...'
 			});
-
-			$.post("sendmail.php", $("#contact").serialize(), function (result) {
+            
+			var $form = $(this);
+			$.post($form.attr("action"), $form.serialize()).then(function(result) {
 				
 				if (result == 'sent') {
 				
@@ -192,7 +193,51 @@
 			});
 		} //if error == false
 
-	});//end of fx
+	});//end of fx 
+
+
+ /* $("#contact").submit(function(e) {
+  e.preventDefault();
+
+  var $form = $(this);
+  $.post($form.attr("action"), $form.serialize()).then(function() {
+    
+
+		
+		var error = false;
+		var name = $('#name').val();
+		var email = $('#email').val();
+		var subject = $('#subject').val();
+		var message = $('#message').val();
+
+		if (name.length == 0) {
+			var error = true;
+			$('#name').css("border-color", "#D8000C");
+		} else {
+			$('#name').css("border-color", "#666");
+		}
+		if (email.length == 0 || email.indexOf('@') == '-1') {
+			var error = true;
+			$('#email').css("border-color", "#D8000C");
+		} else {
+			$('#email').css("border-color", "#666");
+		}
+		if (subject.length == 0) {
+			var error = true;
+			$('#subject').css("border-color", "#D8000C");
+		} else {
+			$('#subject').css("border-color", "#666");
+		}
+		if (message.length == 0) {
+			var error = true;
+			$('#message').css("border-color", "#D8000C");
+		} else {
+			$('#message').css("border-color", "#666");
+		}
+
+       alert("Thank you for your submission.");
+  });
+}); **/
 
 
 /* ========================================================================= */
