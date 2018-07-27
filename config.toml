@@ -75,7 +75,7 @@ title = "Napitalai Information and Communication Technology Consultants | YOUR I
         description = "Your Information Comunication Technology needs is our major concern here at NICTC."
         button  = true
         btnText = "Know More"
-        btnURL  = "https://themefisher.com/"
+        btnURL  = "https://www.nictconsultants.com/about/"
         videoThumb = "images/slider/video-player-thumb.jpg"
         videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
@@ -90,7 +90,7 @@ title = "Napitalai Information and Communication Technology Consultants | YOUR I
         enable  = true
         topTitle= "OUR UNTOLD STORY"
         title   = "Blog."
-        subtitle= "Blog subtitle!"
+        subtitle= "KNOWLEDGE IS POWER!"
 
     # Call to Action Section on About Page
     [params.cta]
@@ -105,7 +105,7 @@ title = "Napitalai Information and Communication Technology Consultants | YOUR I
         enable  = true
         topTitle= "DROP US A NOTE"
         title   = "Contact Us."
-        subtitle= "If you have any problems,please don't hesitate to call us."
+        subtitle= "If you have any problems,please don't hesitate to contact us."
         address = "M66,PNGUNITECH  <br>Lae , Morobe"
         phone   = "+675 73127529"
         fax     = "+675 73127529"

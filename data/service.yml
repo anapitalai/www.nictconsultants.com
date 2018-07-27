@@ -1,7 +1,7 @@
 enable    : true
 topTitle  : A LIST OF SERVICES
 title     : Our Service.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle  : The services we provide.
 item      :
   - icon  : tf-ion-ios-copy-outline
     title : Branding
@@ -15,7 +15,7 @@ item      :
     title : Branding
     list  :
       - name : Web Design
-      - name : E- Commerce Site Design
+      - name : E-Commerce Site Design
       - name : App Development
       - name : Mobile UI Design
 
