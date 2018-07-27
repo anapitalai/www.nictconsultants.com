@@ -1,5 +1,5 @@
 ---
-title: Sample File
-downloadfile: /images/herein.pdf
+title: Web App Tutorial
+downloadfile: /images/logo.png
 ---
 
