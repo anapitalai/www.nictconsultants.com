@@ -4,6 +4,7 @@
 
 {{ partial "navigation.html" . }}
 
+{{ if eq .Section "blog" }}
 <section class="blog-single section">
     <div class="container">
         <div class="row">
@@ -71,5 +72,15 @@
         </div>
     </div>
 </section>
+{{ end }}
+
+
+{{ if eq .Section "downloads" }}
+
+<section class="jumbotron text-center">
+   <a href="{{ .Params.downloadfile }}"><h1>{{ .Params.title }}</h1></a>
+</section>
+
+{{ end }}
 
 {{ partial "footer.html" . }}

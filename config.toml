@@ -43,6 +43,11 @@ title = "Napitalai Information and Communication Technology Consultants | YOUR I
         url     = "/service"
         weight  = 3
 
+    [[menu.nav]]
+        name    = "Downloads"
+        url     = "/downloads"
+        weight  = 4
+
     # Footer Quick links Menu
     [[menu.quicklink]]
         name    = "Partners"

@@ -1883,3 +1883,11 @@ a:focus, a:hover {
 .call-out{
   background-color: maroon;
 }
+
+
+.dload{
+  margin:20px;
+  border:10px;
+  text-align: center;
+  background-color: maroon;
+}
