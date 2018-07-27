@@ -41,6 +41,8 @@ collections:
       - {label: "Body", name: "body", widget: "text"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
 
+  
+  
   - name: "service" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Service" # Used in the UI, ie.: "New Post"
     folder: "content/service" # The path to the folder where the documents are stored
@@ -49,5 +51,17 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Charge", name: "charge", widget: "text"}
       - {label: "Description", name: "description", widget: "text"}
+
+  - name: "downloads" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Downloads" # Used in the UI, ie.: "New Post"
+    folder: "content/downloads" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "File", name: "downloadfile", widget: "file"}
+  
+  
+
+
 
 
