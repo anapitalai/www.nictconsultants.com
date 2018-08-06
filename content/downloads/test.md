@@ -1,5 +1,5 @@
 ---
-title: File
-downloadfile: /images/herein.pdf
+title: Apache Server Configurations
+downloadfile: /images/to-www-or-not-www-netlify.pdf
 ---
 
