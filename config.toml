@@ -87,8 +87,8 @@ title = "Napitalai Information and Communication Technology Consultants | YOUR I
     # About 2 Section
     [params.aboutSm]
         enable  = true
-        title   = "We have explored the digital landscape with passion for a long time"
-        description = "About description"
+        title   = "We are concerned about your ICT needs."
+        description = "IT is not all people's  job but is heavily used in people's day to day activities whether you are in a office or outside.Here at NICTC, we are here to help you get past the hurdles of technology and make you fully utilise it wherever you are."
 
     # Blog Section On Homepage
     [params.blog]
