@@ -81,7 +81,7 @@ title = "Napitalai Information and Communication Technology Consultants | YOUR I
         button  = true
         btnText = "Know More"
         btnURL  = "https://www.nictconsultants.com/about/"
-        videoThumb = "images/slider/video-player-thumb.jpg"
+        videoThumb = "images/sly.png"
         videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
     # About 2 Section
@@ -100,7 +100,7 @@ title = "Napitalai Information and Communication Technology Consultants | YOUR I
     # Call to Action Section on About Page
     [params.cta]
         enable  = true
-        bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+        bg      = "images/nc.png"
         title   = "Let's Create Something Together"
         subtitle= "Call to Action subtitle."
         btnText = "Contact Us"
