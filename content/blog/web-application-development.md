@@ -4,15 +4,17 @@ author: Alois Napitalai
 date: '2018-07-12T13:34:19+10:00'
 image: /images/webworks.png
 ---
-
-* 1. An object is a real world thing that can be represented in a   program.Custom functions can be created and too there are many
+### Web Application Tutorial for GDG Lae Participants
+##### Abbreviations and Definitions
+* 1. Function is group of statements that perform a certain task.
+* 2. An object is a real world thing that can be represented in a   program.Custom functions can be created and too there are many
    built-in functions available javascript.
-* 2. When a function is created in an object, it is called a
+* 3. When a function is created in an object, it is called a
    METHOD.
-* 3. A variable is temporary storage in memory of the computer that
+* 4. A variable is temporary storage in memory of the computer that
    is used to hold data of a certain datatype.
-* 4. Some datatypes in js are booleans,string,integers(numbers),ect.
-* 5. An eventlistener is a function that listens for a event to take
+* 5. Some datatypes in js are booleans,string,integers(numbers),ect.
+* 6. An eventlistener is a function that listens for a event to take
    place before it is triggered.Some examples are
    input,mouseover,keyup,etc.In our app,we will be using the input
    event. So when data is typed into a input box, a certain function
@@ -32,7 +34,7 @@ loan_calculator→ <br>
   images→bg.jpg<br>
   index.html<br>
 
-* 5. Type out the html structure.
+* 5. Type out the html structure in index.html.
 
 ```
 <html>
