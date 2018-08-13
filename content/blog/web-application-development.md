@@ -7,21 +7,21 @@ image: /images/webworks.png
 
 Web Application Tutorial for GDG Lae Participants
 Abbreviations and Definitions
-• Function is group of statements that perform a certain task.
-• An object is a real world thing that can be represent in code or
+1. Function is group of statements that perform a certain task.
+2. An object is a real world thing that can be represent in code or
 program. Function can be create and too there are so many
 built-in functions available js.
-• When a function is created in an object, it is called a
+3. When a function is created in an object, it is called a
 METHOD.
-• A variable is temporary storage in memory of the computer that
+4. A variable is temporary storage in memory of the computer that
 is used to hold data of a certain datatype.
-• Some datatypes in js are booleans,string,integers(numbers),ect.
-• An eventlistener is a function that listens for a event to take
+5. Some datatypes in js are booleans,string,integers(numbers),ect.
+6. An eventlistener is a function that listens for a event to take
 place before it is triggered.Some examples are
 input,mouseover,keyup,etc.In our app,we will be using the input
 event. So when data is typed into a input box, a certain function
 is triggered.
-• Syntax is the grammar of programming in js.
+7. Syntax is the grammar of programming in js.
 vsc=visual studio code
 lts=lite-server
 app=application
