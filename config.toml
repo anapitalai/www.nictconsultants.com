@@ -82,7 +82,7 @@ title = "Napitalai Information and Communication Technology Consultants | YOUR I
         btnText = "Know More"
         btnURL  = "https://www.nictconsultants.com/about/"
         videoThumb = "images/sly.png"
-        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+        videoURL   = "https://www.youtube.com"
 
     # About 2 Section
     [params.aboutSm]
